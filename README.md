@@ -40,9 +40,36 @@ src/
  ├── data/
  ├── App.jsx
  └── App.css
+---
 
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Harshadashinde4398/Mood-MusicPlayer.git
+cd Mood-MusicPlayer
+npm install
+npm run dev
+---
+▶️ Usage
+Select your mood
+Choose preferred language
+Click play
+Enjoy Spotify music recommendations
 ## 📸 Screenshots
 
 ![Home](home.png)
 
 ![Player](player.png)
+
+---
+
+So in simple words:
+
+```text id="m7p2zs"
+Installation
+↓
+Usage
+↓
+Contributors
+↓
+License
