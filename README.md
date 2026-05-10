@@ -41,3 +41,8 @@ src/
  ├── App.jsx
  └── App.css
 
+## 📸 Screenshots
+
+![Home](home.png)
+
+![Player](player.png)
